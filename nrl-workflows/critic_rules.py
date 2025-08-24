@@ -1,0 +1,1 @@
+rules = {"voltage_range": (-100, 100), "sampling_rate": 256}
